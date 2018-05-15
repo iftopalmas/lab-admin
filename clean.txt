@@ -1,0 +1,14 @@
+#List of directories to be cleaned by the clean.sh script
+/home/aluno/Desktop/*
+/home/aluno/Área\ de\ Trabalho/*
+/home/aluno/Documents/*
+/home/aluno/Documentos/*
+/home/aluno/Downloads/*
+/home/aluno/Models/*
+/home/aluno/Modelos/*
+/home/aluno/Images/*
+/home/aluno/Imagens/*
+/home/aluno/Music/*
+/home/aluno/Música/*
+/home/aluno/Vídeos/*
+/home/aluno/Videos/*
