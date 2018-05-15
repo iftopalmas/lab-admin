@@ -1,8 +1,8 @@
 = A set of shell scripts to facilitate administration of computer labs
 
-- link:startup-pcs.sh[startup-pcs.sh] - Uses the `wakeonlan` to turn on all machines that mac addresses are defined in the link:macs.txt[macs.txt] file.
-- link:send-files.sh[send-files.sh] - Sends files or directories to all computers defined in the link:ips.txt[ips.txt] file.
-- link:exec-cmd.sh[exec-cmd.sh] - Executes a command on all remote computers defined in the link:ips.txt[ips.txt] file.
+- link:startup.sh[startup.sh] - Uses the `wakeonlan` to turn on all machines that mac addresses are defined in the link:macs.txt[macs.txt] file.
+- link:send.sh[send.sh] - Sends files or directories to all computers defined in the link:ips.txt[ips.txt] file.
+- link:execute.sh[execute.sh] - Executes a command on all remote computers defined in the link:ips.txt[ips.txt] file.
 - link:clean.sh[clean.sh] -   Removes the files inside the directories defined in the link:clean.txt[clean.txt] file.
   Each line in such a file represents a directory to be cleaned, according to a file mask such as `*.txt`.
 
